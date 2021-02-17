@@ -1,5 +1,4 @@
-root:
-  language: "go"
+language: go
 deploy:
   provider: heroku
   api_key:
