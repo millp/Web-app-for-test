@@ -1,4 +1,5 @@
 deploy:
+  language: "go"
   provider: heroku
   api_key:
     secure: "jl8mBxT60j8xYxYufq1KAg"
